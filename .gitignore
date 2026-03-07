@@ -1,2 +1,2 @@
 *.metadata*
-persistence.xml
+*persistence.xml
